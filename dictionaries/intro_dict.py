@@ -1,7 +1,7 @@
 
 # WE can defind a dictionaries in two way
 # First method  to create dictionaries
-"""user={"name":"swapnil","age":25,"college":"imcot"}
+user={"name":"swapnil","age":25,"college":"imcot"}
 print(user)
 print(type(user))
 """
@@ -30,3 +30,6 @@ value1={}
 value1["name"]="om"
 print(value1)
 '''
+
+
+"""
