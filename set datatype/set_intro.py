@@ -24,6 +24,5 @@ l.discard(2)
 print(l)
 
 
-
 s=l.copy()
 print(s)
