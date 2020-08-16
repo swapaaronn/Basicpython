@@ -35,4 +35,12 @@ for item in l:
 
 '''
 
+# union and intersection 
+s={1,2,3,4,6,7,5}
+s1={8,9,4,5,8,10,11,12}
+union=(s|s1)
+print(union)
 
+
+intersection=(s1 & s)
+print(intersection)
