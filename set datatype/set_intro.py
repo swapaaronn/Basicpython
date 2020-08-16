@@ -26,3 +26,13 @@ print(l)
 
 s=l.copy()
 print(s)
+
+
+'''
+# for loop
+for item in l:
+    print(item)
+
+'''
+
+
